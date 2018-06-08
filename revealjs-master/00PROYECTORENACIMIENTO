@@ -1,0 +1,205 @@
+<html lang="es">
+    <head>
+        <meta name="author" content="Julia Laranjinha"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/white.css">
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+
+              <section data-transition="slide">
+                <h1><font color="#0080ff">Literatura renacentista</font></h1>
+                <hr>
+                <h2>Julia Laranjinha</h2>
+                <hr>
+              </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#F5F5F5" -->
+                     ## Índice
+                    * <a href="#Caracteristicas">Características generales</a>
+                    * <a href="#Lirica">Lírica</a>
+                    * <a href="#Lit">Literatura</a>
+                    * <a href="#Poe">Poesía</a>
+                    * <a href="#Text">Texto</a>
+
+                  </script>
+              </section>
+              <section>
+                <section data-background-color="#0080ff" data-transition="slide" id="Caracteristicas"> 
+                  <h2> Siglo XVI: Renacimiento </h2>
+                  <h3> Características generales </h3>
+                </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ## Carlos I (Expansión del imperio)
+
+                        * Renacimiento italianizante, pagano.
+                        * Recuperación clásicos.
+                        * Humanismo: antropo-centrismo, racionalismo y vitalismo. 
+                        * Neoplatonismo: idealismo.
+                        * Temas “paganos”.
+                        * Erasmismo – Reforma Protestante.
+                      
+                  </script>
+              </section>
+              </section>
+              <section>
+                <section data-background-color="#0080ff" data-transition="slide" id="Lirica"> 
+                  <h2> Siglo XVI: Renacimiento </h2>
+                  <h3> Lírica </h3>
+                </section>
+                <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ## Características de la lírica
+
+                        * Influencia de Petrarca, Ausiàs March, poetas italianos (Prieto Bembo –*Rimas*-; Jacopo Sannazaro – *La Arcadia*-) y autores clásicos (Virgilio, Ovidio, Horacio).
+                        * Innovaciones métricas, introducidas por Juan Boscán y Garcilaso de la Vega:
+                          * Metros: endecasílabos y heptasílabos.
+                          * Estrofas: soneto, octava real, estancia, lira, terceto.
+                        * Subgéneros: égloga, oda, elegía, epístola.
+                        * Temas: amor, Naturaleza, mitología, introspección; ascético-morales y religiosos (mística) en la 2ª mitad.
+                        * Tópicos literarios: “carpe diem”, “collige virgo rosas”, “locus amoenus”, Edad Dorada, “beatus ille” …
+                        * Estilo: equilibrio entre forma y contenido, sencillez y elegancia.
+                                            
+                  </script>
+              </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ## Estrofas
+
+                          ### Soneto
+                            
+                            * 14 versos de arte mayor endecasílabos
+                            * 2 cuartetos 2 tercetos encadenados
+                            * 11A 11B 11B 11A / 11A 11B 11B 11A / 11C 11D 11C / 11D 11C 11D
+                            * "Un soneto me manda hace Violante" (Lope de Vega)
+
+                          ### Estancia
+
+                            * Combinación libre de endecasílabos y heptasílabos cuyo esquema se repite en todas las estrofas 
+                            * *Egloga I* (Garcilaso)
+
+                          ### Octava real
+                            
+                            * 8 versos de arte mayor endecasílabos
+                            * 11A 11B 11A 11B 11A 11B 11C 11C
+                            * *Égloga III* (Garcilaso)
+
+                          ### Lira
+                            
+                            * 5 versos de arte mayor y menos: heptasílabos y endecasílabos
+                            * 7A 11B 7A 7B 11B
+                            * "Cántico espiritual" (San Juan de la Cruz)
+                      
+                  </script>
+              </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ## Tópicos: Carpe Diem
+
+                          **‘aprovecha el día’: es una invitación a disfrutar el momento, a vivir el presente;** tomado del poeta latino Horacio:
+                          > Carpe diem, quam minimum credula postero
+                          (‘aprovecha el día, no confíes en el mañana’)
+                          Es el tópico que mejor resume el espíritu optimista y vitalista del Renacimiento.
+
+                          ### Collige virgo rosas             ![Mujer joven](/Imagen1.jpg)
+                          **‘coge muchacha las rosas’**: invita a la mujer a aprovechar su juventud y a amar antes de envejecer.  Variante del carpe diem.
+                      
+                  </script>
+              </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ## Tópicos
+
+                        **Ej:** "En tanto que de rosa y azucena" de Garcilaso de la Vega
+
+                        ### Descriptio puellae  ![Mujer joven](/Imagen2.jpg)
+
+                          * Piel blanca
+                          * Mejillas sonrosadas
+                          * Ojos claros
+                          * Boca pequeña y labios rojos
+                          * Cuello largo y erguido
+                          * Pelo rubio y largo
+                        ### Donna angelicatta
+                        (‘mujer angelical’): símbolo de la perfección por su belleza externa y espiritual (honestidad).
+                      
+                  </script>
+              </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ##Tópicos: Locus amoenus
+
+                          **‘lugar ameno’, agradable y tranquilo, ideal para expresar el sentimiento amoroso o para la reflexión moral.**
+
+                          **Ej:** 
+                            * *Égloga I* de Garcilaso de la Vega
+                            * "Oda a la vida retirada" de Fray Luis de León
+
+                          ### Serenidad y equilibrio ![Paisaje](/Imagen3.jpg)
+
+                            * Lugar apartado.
+                            * Árboles, hierba y flores.
+                            * Fuente o riachuelo.
+                            * Brisa suave.
+                            * Aves que cantan.
+                            * Sirve como fondo, como confidente e, incluso, se conmueve con el poeta.
+                      
+                  </script>
+              </section>
+              <section data-markdown data-transition="slide" data-transition-speed="slow" id="Carlos"> 
+                  <script type="text/template">
+                   <!-- .slide: data-background="#0080ff" -->
+                      ## Edad Dorada
+
+                        **Edad mítica, imaginada por los clásicos (Hesíodo, Ovidio, Virgilio), en la que el hombre vivía en paz y armonía en una generosa Naturaleza que le proporcionaba todo lo necesario para su subsistencia y felicidad.**
+
+                        **Ej:** Primera parte de *El Quijote* de Miguel de Cervantes
+
+                        ![](/Imagen4.jpg)
+                                            
+                  </script>
+              </section>
+
+
+              </section>
+
+
+
+              <section data-markdown data-background-image="mujer.jpg"> 
+                  <script type="text/template">
+                      <a href="https://cvc.cervantes.es/actcult/garcilaso/versos/soneto09.htm"> Aquí tienes el texto del poema </a>
+                  </script>
+              </section>
+              </section>
+
+                
+            </div>
+        </div>
+
+         <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            Reveal.initialize({
+              slideNumber: true,
+              transition: 'fade-out',
+              backgroundTransition: 'slide',
+              dependencies: [
+    // Para interpretar Markdown en los elementos <section>
+                { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } }
+              ]
+            });
+        </script>
+    </body>
+</html>
